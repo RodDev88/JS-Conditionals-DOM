@@ -1,5 +1,20 @@
 INTRUCCIONES DEL EJERCICIO
 
+1-Estructura inicial en HTML:
+
+-Crea un botón "Revisar" que permita verificar si las condiciones se cumplen.
+-Crea un botón "Enviar" deshabilitado por defecto.
+-Agrega dos checkboxes que representen las opciones.
+-Agrega un contenedor (div) para mostrar mensajes al usuario.
+
+2-Funcionalidad con JavaScript:
+
+-Cuando se presione el botón "Revisar":
+   -Verifica si al menos un checkbox está marcado.
+   -Muestra un mensaje dinámico en el contenedor (div).
+   -Si se cumplen las condiciones, habilita el botón "Enviar".
+   -Si no, asegúrate de que el botón "Enviar" siga deshabilitado.
+
 APRENIZAJES DEL EJERCICIO
 
 LABEL E INPUTS
